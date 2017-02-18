@@ -1,0 +1,90 @@
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\MySql.Data.dll
+C:\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\michal.paduch\Downloads\GroobyPortfel2.1 (1)\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\Bobi\Desktop\GroobyPortfel2.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\Bobi\Desktop\GroobyPortfel2.2\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\bin\Debug\MySql.Data.dll
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\MySql.Data.dll
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\Adam\Desktop\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe.config
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.exe
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\GroobyPortfel.pdb
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\bin\Debug\MySql.Data.dll
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csprojResolveAssemblyReference.cache
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form1.resources
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form2.resources
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form3.resources
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Form4.resources
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.Properties.Resources.resources
+C:\Users\Adam\Desktop\GB17\GroobyPortfel2017\GroobyPortfel2.3.1\GroobyPortfel\GroobyPortfel\obj\Debug\GroobyPortfel.csproj.GenerateResource.Cache

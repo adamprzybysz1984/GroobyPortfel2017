@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<MoneyFlows>
+  <MoneyFlow Amount="-8000" Typ="Wydatek" Name="Brak nazwy" FlowCategory="-1" Date="18.02.2017 02:04:31" />
+  <MoneyFlow Amount="10000" Typ="Przychód" Name="Brak nazwy" FlowCategory="-1" Date="18.02.2017 02:04:55" />
+  <MoneyFlow Amount="0" Typ="" Name="" FlowCategory="-1" Date="18.02.2017 02:06:51" />
+</MoneyFlows>
